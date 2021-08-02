@@ -1,2 +1,2 @@
-# GrowtopiaWorldExtractor
-This program takes a rendered world image and analyzes it block by block for further data processing.
+# Platformer2D-Game
+A simple platformer game made with Box2D & SFML
